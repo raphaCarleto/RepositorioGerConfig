@@ -1,0 +1,2 @@
+# RepositorioGerConfig
+Repositório
